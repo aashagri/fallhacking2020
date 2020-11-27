@@ -32,12 +32,12 @@ The setup (mandatory -- i.e. **nothing else is graded without this**). There are
 
 Shell hacking (25%). Looking up a Linux command or conceptual help is fine.  Looking up **answers** = integrity violation.   Just don't do it.  Looking up a Linux command is fine.  Source **everything**   :
 
- - [ ] Complete all 33 sections of the Bandit CTF game here: https://overthewire.org/wargames/bandit/
+ - [AA ] Complete all 33 sections of the Bandit CTF game here: https://overthewire.org/wargames/bandit/
  - [ ] SUBMIT YOUR SCORE IN EACH LEVEL.  10 points will be deducted for failing to do this.
  - [ ] For EACH of the 33 sections, take a screenshot of the page when you find the solution for each level.  Put all of these screenshots in a single Word document, in order named "1-shell_hacking.docx".  Submitting them loose or as a zipped up archive, or in any other manner will result in a 20 point deduction.
 
 Cryptography (25%).  Same rules as Shell hacking.  Looking up a Linux command or conceptual help is fine.  Looking up **answers** = integrity violation.  Source **everything**   :
- - [ ] Complete all 7 sections of the Krypton CTF game here: https://overthewire.org/wargames/krypton/
+ - [AA ] Complete all 7 sections of the Krypton CTF game here: https://overthewire.org/wargames/krypton/
  - [ ] SUBMIT YOUR SCORE IN EACH LEVEL.  10 points will be deducted for failing to do this.
  - [ ] For EACH of the 7 sections, take a screenshot of the page when you find the solution for each level.  Put all of these screenshots in a single Word document, in order named "2-cryptography.docx".  Submitting them loose or as a zipped up archive, or in any other manner will result in a 20 point deduction.
 
@@ -72,7 +72,7 @@ EXTRA CREDIT: Win Scenario based on total SCORE on wechall.  It doesn't matter w
 
 Students:
 |Initials|Overthewire Name|WeChall name|
-|--|--|--|
+|AA|ash12|ash12|
 |CT|ethicalprof|ethicalprof|
 |AH|Zorak|Zorak|
 | EW |ewarnock    |ewarnock
